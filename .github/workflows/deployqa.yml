@@ -3,7 +3,7 @@ name: SendChanges-to-EC2
 on:
   push:
     branches:
-      - main
+      - qa
 jobs:
   deploy:
     name: Deploy to EC2 on master branch push
