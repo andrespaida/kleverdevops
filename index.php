@@ -6,7 +6,11 @@
     <title>Document</title>
 
 
+
     <h1>hello</h1>
+
+    <h1>hola mundo</h1>
+
 </head>
 <body>
     <?php echo gethostname();?>
